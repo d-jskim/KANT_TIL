@@ -11,10 +11,14 @@
             "id": "c92f8bc0558c613a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "KANT_TIL/머신러닝 심화/TIL_260812.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "TIL_260812"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a11bbf5160d98ad",
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KANT_TIL/머신러닝 심화/TIL_260812.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KANT_TIL/머신러닝 심화/TIL_260812.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KANT_학습/머신러닝 심화/TIL_260812.md",
+                "file": "KANT_TIL/머신러닝 심화/TIL_260812.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,14 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e2566ffbdb1d025",
+  "active": "c92f8bc0558c613a",
   "lastOpenFiles": [
+    "KANT_학습/머신러닝 심화/TIL_260812.md",
     "KANT_TIL/머신러닝 심화/TIL_260812.md",
     "KANT_TIL/기초수학",
     "KANT_TIL/머신러닝 심화",
     "KANT_TIL",
     "환영합니다!.md",
-    "KANT_학습/머신러닝 심화/TIL_260812.md",
     "KANT_학습/머신러닝 심화",
     "KANT_학습/기초수학",
     "KANT_학습"
