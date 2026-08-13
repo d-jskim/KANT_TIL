@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "머신러닝 기초/머신러닝 입문.md",
+                "file": "KANT_TIL/머신러닝 심화/TIL_260813_머신러닝 입문.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "머신러닝 입문"
+              "title": "TIL_260813_머신러닝 입문"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a11bbf5160d98ad",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "머신러닝 기초/머신러닝 입문.md",
+                "file": "KANT_TIL/머신러닝 심화/TIL_260813_머신러닝 입문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -216,13 +215,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cbbd2092bbc568f",
+  "active": "0e2566ffbdb1d025",
   "lastOpenFiles": [
+    "KANT_TIL/머신러닝 심화/TIL_260812.md",
+    "KANT_TIL/머신러닝 심화/TIL_260813_머신러닝 입문.md",
     "Pasted image 20260813153038.png",
     "Pasted image 20260813151239.png",
     "Pasted image 20260813150730.png",
-    "KANT_TIL/머신러닝 심화/TIL_260812.md",
-    "머신러닝 기초/머신러닝 입문.md",
     "머신러닝 기초",
     "KANT_학습/머신러닝 심화/TIL_260812.md",
     "KANT_TIL/기초수학",
