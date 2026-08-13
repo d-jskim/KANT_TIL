@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b820c7e5cd96fa91",
+        "id": "992c4b07b8d2f82d",
         "type": "tabs",
         "children": [
           {
-            "id": "c92f8bc0558c613a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KANT_TIL/머신러닝 심화/TIL_260812.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL_260812"
-            }
-          },
-          {
-            "id": "8cbbd2092bbc568f",
+            "id": "2986f3aa627bb234",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "TIL_260813_머신러닝 입문"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e2566ffbdb1d025",
+  "active": "2986f3aa627bb234",
   "lastOpenFiles": [
-    "KANT_TIL/머신러닝 심화/TIL_260812.md",
+    "첨부파일/Pasted image 20260813150730.png",
+    "첨부파일",
     "KANT_TIL/머신러닝 심화/TIL_260813_머신러닝 입문.md",
-    "Pasted image 20260813153038.png",
-    "Pasted image 20260813151239.png",
-    "Pasted image 20260813150730.png",
+    "KANT_TIL/머신러닝 심화/TIL_260812.md",
+    "첨부파일/Pasted image 20260813153038.png",
+    "첨부파일/Pasted image 20260813151239.png",
     "머신러닝 기초",
     "KANT_학습/머신러닝 심화/TIL_260812.md",
     "KANT_TIL/기초수학",

@@ -1,5 +1,7 @@
 {
   "showLineNumber": false,
   "readableLineLength": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "첨부파일"
 }
