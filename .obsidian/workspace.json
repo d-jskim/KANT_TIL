@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/머신러닝/TIL_260813_머신러닝 입문.md",
+                "file": "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_260813_머신러닝 입문"
+              "title": "TIL_260814_머신러닝 심화_4장"
             }
           },
           {
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KANT_TIL/머신러닝/TIL_260813_머신러닝 입문.md",
+                "file": "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -219,6 +219,9 @@
   },
   "active": "2986f3aa627bb234",
   "lastOpenFiles": [
+    "첨부파일/Pasted image 20260814163827.png",
+    "첨부파일/Pasted image 20260814163816.png",
+    "KANT_TIL/머신러닝/TIL_260813_머신러닝 입문.md",
     "첨부파일/Pasted image 20260814163105.png",
     "첨부파일/Pasted image 20260814163054.png",
     "첨부파일/Pasted image 20260814163049.png",
@@ -230,12 +233,9 @@
     "첨부파일/Pasted image 20260814101040.png",
     "첨부파일/Pasted image 20260814100709.png",
     "첨부파일/Pasted image 20260814100635.png",
-    "KANT_TIL/머신러닝/TIL_260813_머신러닝 입문.md",
     "첨부파일/Pasted image 20260813150730.png",
     "첨부파일",
     "KANT_TIL/머신러닝/TIL_260812.md",
-    "첨부파일/Pasted image 20260813153038.png",
-    "첨부파일/Pasted image 20260813151239.png",
     "머신러닝 기초",
     "KANT_학습/머신러닝 심화/TIL_260812.md",
     "KANT_TIL/기초수학",
