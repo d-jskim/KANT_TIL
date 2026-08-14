@@ -4,5 +4,6 @@
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "첨부파일",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
 }

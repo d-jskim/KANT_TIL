@@ -11,31 +11,26 @@
             "id": "2986f3aa627bb234",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
-                "mode": "source",
-                "source": false
+                "file": "TIL_Base.base",
+                "viewName": "표"
               },
-              "icon": "lucide-file",
-              "title": "TIL_260814_머신러닝 심화_4장"
+              "icon": "lucide-table",
+              "title": "TIL_Base"
             }
           },
           {
             "id": "7fba453b86387544",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "bases",
               "state": {
-                "file": "무제.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "TIL_Base.base",
+                "viewName": "표"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "무제"
+              "icon": "lucide-table",
+              "title": "TIL_Base"
             }
           }
         ]
@@ -135,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
+                "file": "TIL_Base.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -217,23 +212,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2986f3aa627bb234",
+  "active": "0e2566ffbdb1d025",
   "lastOpenFiles": [
-    "첨부파일/Pasted image 20260814163827.png",
-    "첨부파일/Pasted image 20260814163816.png",
-    "KANT_TIL/머신러닝/TIL_260813_머신러닝 입문.md",
-    "첨부파일/Pasted image 20260814163105.png",
-    "첨부파일/Pasted image 20260814163054.png",
-    "첨부파일/Pasted image 20260814163049.png",
-    "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
-    "첨부파일/Pasted image 20260814163000.png",
     "무제.canvas",
-    "무제.base",
-    "첨부파일/Pasted image 20260814103748.png",
+    "첨부파일/260813_시각화 수정 전.png",
+    "첨부파일/260813_시각화 수정 후.png",
+    "첨부파일/260813_pandas.crosstab.normalize 결과.png",
+    "첨부파일/260814_암환자_Positive 설정.png",
     "첨부파일/Pasted image 20260814101040.png",
-    "첨부파일/Pasted image 20260814100709.png",
-    "첨부파일/Pasted image 20260814100635.png",
-    "첨부파일/Pasted image 20260813150730.png",
+    "첨부파일/Pasted image 20260813153038.png",
+    "첨부파일/260814_ROC_AUC 정리.png",
+    "첨부파일/260814_정상_Positive 설정.png",
+    "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
+    "KANT_TIL/머신러닝/TIL_260813_머신러닝 입문.md",
+    "첨부파일/260814_정상_Positi.png",
+    "TIL_Base.base",
     "첨부파일",
     "KANT_TIL/머신러닝/TIL_260812.md",
     "머신러닝 기초",
