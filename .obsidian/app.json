@@ -3,5 +3,6 @@
   "readableLineLength": false,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "첨부파일"
+  "attachmentFolderPath": "첨부파일",
+  "newLinkFormat": "relative"
 }
