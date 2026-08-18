@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
+                "file": "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_260814_머신러닝 심화_4장"
+              "title": "TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용"
             }
           },
           {
@@ -32,6 +32,20 @@
               },
               "icon": "lucide-table",
               "title": "TIL_Base"
+            }
+          },
+          {
+            "id": "89fb056e9a84d3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용"
             }
           }
         ]
@@ -96,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3a11bbf5160d98ad",
@@ -131,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
+                "file": "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -216,6 +230,8 @@
   "active": "0e2566ffbdb1d025",
   "lastOpenFiles": [
     "TIL_Base.base",
+    "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
+    "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
     "무제.canvas",
     "첨부파일/260813_시각화 수정 전.png",
     "첨부파일/260813_시각화 수정 후.png",
@@ -225,7 +241,6 @@
     "첨부파일/Pasted image 20260813153038.png",
     "첨부파일/260814_ROC_AUC 정리.png",
     "첨부파일/260814_정상_Positive 설정.png",
-    "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
     "KANT_TIL/머신러닝/TIL_260813_머신러닝 입문.md",
     "첨부파일/260814_정상_Positi.png",
     "첨부파일",
