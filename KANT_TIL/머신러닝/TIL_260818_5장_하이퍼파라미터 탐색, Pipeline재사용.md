@@ -167,3 +167,35 @@ numeric_pipeline = Pipeline([ ("imputer", SimpleImputer(strategy="median")), ("s
 
 > **C를 역수로 써야 하는 수학적 필연성이 있는 것은 아니며, Logistic Regression에서 규제 강도와 반대 방향으로 정의한 하이퍼파라미터이다.**
 
+# 데일리 퀘스트 오답
+
+## Q. Optuna가 기본으로 사용하는 TPE(Tree-structured Parzen Estimator) 방식
+
+**정의**: 이전에 시도한 결과를 보고, 성능이 좋을 가능성이 높은 하이퍼파라미터 영역을 다음에 더 탐색하는 방법
+
+```
+초기 Trial
+C=0.01 → AP 0.91
+C=0.1  → AP 0.98  ← 좋음
+C=1    → AP 0.93
+       ↓
+TPE가 이전 결과 분석
+       ↓
+0.1 주변이 유망하다고 판단
+       ↓
+C=0.07, 0.15 ... 등 유망한 값 탐색
+```
+
+|방법|다음 값을 고르는 방식|
+|---|---|
+|Grid Search|미리 정한 값 전부 탐색|
+|Random Search|무작위 선택|
+|**TPE**|**이전 Trial 결과를 이용해 유망한 영역 선택**|
+- 무작정 모든 값을 찾아보지 않고 이전 실험에서 학습하면서 다음 하이퍼파라미터를 선택
+- `Tree-structured`가 들어가지만 **Decision Tree나 Random Forest의 Tree를 만드는 알고리즘은 아님
+
+## 오늘 공부 요약
+![](../../첨부파일/260818_하이퍼파라미터%20종류와%20개념.png)
+
+
+
