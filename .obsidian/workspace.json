@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
+                "file": "KANT_TIL/머신러닝/TIL_260819_딥러닝 기초_1장.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용"
+              "title": "TIL_260819_딥러닝 기초_1장"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
+                "file": "KANT_TIL/머신러닝/TIL_260819_딥러닝 기초_1장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -227,11 +227,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e2566ffbdb1d025",
+  "active": "2986f3aa627bb234",
   "lastOpenFiles": [
+    "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
+    "KANT_TIL/머신러닝/TIL_260819_딥러닝 기초_1장.md",
     "첨부파일/260818_하이퍼파라미터 종류와 개념.png",
     "TIL_Base.base",
-    "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
     "KANT_TIL/머신러닝/TIL_260814_머신러닝 심화_4장.md",
     "무제.canvas",
     "첨부파일/260813_시각화 수정 전.png",
