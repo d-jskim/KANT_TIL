@@ -1,0 +1,34 @@
+{
+  "disableInTable": false,
+  "disableOnIME": true,
+  "inlineDisplaystyle": true,
+  "autoPairDollar": true,
+  "solveSeparator": "\\quad \\to \\quad",
+  "solveAngleUnit": "degrees",
+  "solveAngleNames": [
+    "theta",
+    "vartheta",
+    "phi",
+    "varphi",
+    "alpha",
+    "beta",
+    "gamma",
+    "delta",
+    "psi"
+  ],
+  "builtinSnippets": true,
+  "rtlTextCommands": [
+    "he",
+    "ar"
+  ],
+  "hebrewFont": "David CLM",
+  "arabicFont": "",
+  "autoSwitchKeyboard": true,
+  "imSelectPath": "",
+  "hebrewInputSource": "com.apple.keylayout.Hebrew",
+  "arabicInputSource": "com.apple.keylayout.Arabic",
+  "mathInputSource": "com.apple.keylayout.ABC",
+  "noteInputSource": "com.apple.keylayout.Hebrew",
+  "disableDecorations": false,
+  "disableAtomicRanges": false
+}
