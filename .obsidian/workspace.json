@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "딥러닝 기초/TIL_260820_3장 퍼셉트론~MLP forward구현.md",
+                "file": "KANT_TIL/딥러닝 기초/TIL_260820_3장 퍼셉트론~MLP forward구현.md",
                 "mode": "source",
                 "source": false
               },
@@ -229,9 +229,9 @@
   },
   "active": "0e2566ffbdb1d025",
   "lastOpenFiles": [
-    "딥러닝 기초/TIL_260819_딥러닝 기초_1장.md",
-    "딥러닝 기초/TIL_260820_3장 퍼셉트론~MLP forward구현.md",
-    "딥러닝 기초",
+    "KANT_TIL/딥러닝 기초/TIL_260819_딥러닝 기초_1장.md",
+    "KANT_TIL/딥러닝 기초/TIL_260820_3장 퍼셉트론~MLP forward구현.md",
+    "KANT_TIL/딥러닝 기초",
     "첨부파일/260820_nn.Linear내부 가중치.png",
     "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
     "첨부파일/260818_하이퍼파라미터 종류와 개념.png",
