@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/딥러닝 기초/TIL_260824_손실 함수와 옵티마이저.md",
+                "file": "KANT_TIL/딥러닝 기초/TIL_260825_역전파와 PyTorch Autograd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_260824_손실 함수와 옵티마이저"
+              "title": "TIL_260825_역전파와 PyTorch Autograd"
             }
           },
           {
@@ -226,6 +226,7 @@
   "active": "2986f3aa627bb234",
   "lastOpenFiles": [
     "KANT_TIL/딥러닝 기초/TIL_260824_손실 함수와 옵티마이저.md",
+    "KANT_TIL/딥러닝 기초/TIL_260825_역전파와 PyTorch Autograd.md",
     "무제.canvas",
     "KANT_TIL/딥러닝 기초/TIL_260821_활성화 함수와 출력층 설계.md",
     "KANT_TIL/머신러닝/TIL_260818_5장_하이퍼파라미터 탐색, Pipeline재사용.md",
