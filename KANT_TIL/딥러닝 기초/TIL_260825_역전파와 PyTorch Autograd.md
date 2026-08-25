@@ -6,7 +6,6 @@ tags:
   - Gradient
   - Evaluation
 ---
-
 # PyTorch 학습·평가 흐름
 
 ## 1. 예측값과 Loss
@@ -24,15 +23,11 @@ loss = z ** 2  # 49
 - 예측값: `z = 7`
 - `loss = z ** 2`는 목표값을 `0`으로 가정한 예제
 
-$$
-L=(z-0)^2=z^2
-$$
+$$L=(z-0)^2=z^2$$
 
 일반적인 회귀의 제곱오차는 정답 `y`와 비교함.
 
-$$
-L=(z-y)^2
-$$
+$$L=(z-y)^2$$
 
 ```text
 입력 x -> 예측값 z=xw+b -> 정답 y와 비교 -> Loss
@@ -48,27 +43,13 @@ w -> z=xw+b -> L=z²
 
 각 구간의 변화율:
 
-$$
-\frac{\partial L}{\partial z}=2z=14
-$$
+$$\frac{\partial L}{\partial z}=2z=14$$
 
-$$
-\frac{\partial z}{\partial w}=x=2
-$$
+$$\frac{\partial z}{\partial w}=x=2$$
 
 연결된 전체 변화율:
 
-$$
-\frac{\partial L}{\partial w}
-=
-\frac{\partial L}{\partial z}
-\times
-\frac{\partial z}{\partial w}
-=
-14\times2
-=
-28
-$$
+$$\frac{\partial L}{\partial w}=\frac{\partial L}{\partial z}\times\frac{\partial z}{\partial w}=14\times2=28$$
 
 변화율을 곱하는 이유:
 
@@ -80,21 +61,13 @@ w가 0.001 증가
 
 따라서:
 
-$$
-\frac{\Delta L}{\Delta w}
-=
-\frac{0.028}{0.001}
-=
-28
-$$
+$$\frac{\Delta L}{\Delta w}=\frac{0.028}{0.001}=28$$
 
 > `w -> z -> Loss`처럼 변화가 연속해서 전달되므로 각 구간의 변화율을 곱함.
 
 ## 3. Gradient의 의미
 
-$$
-\frac{\partial L}{\partial w}=28
-$$
+$$\frac{\partial L}{\partial w}=28$$
 
 Gradient `28`에서 알 수 있는 것:
 
@@ -123,57 +96,23 @@ w가 0.001 증가
 
 Gradient는 방향과 민감도를 알려주고, Learning Rate는 실제 이동 크기를 결정함.
 
-$$
-w_{\mathrm{new}}
-=
-w_{\mathrm{old}}
--
-\mathrm{lr}
-\times
-\frac{\partial L}{\partial w}
-$$
+$$w_{\mathrm{new}}=w_{\mathrm{old}}-\mathrm{lr}\times\frac{\partial L}{\partial w}$$
 
 Learning Rate가 `0.01`이면:
 
-$$
-w_{\mathrm{new}}
-=
-3-(0.01\times28)
-=
-2.72
-$$
+$$w_{\mathrm{new}}=3-(0.01\times28)=2.72$$
 
 `b`의 Gradient:
 
-$$
-\frac{\partial L}{\partial b}
-=
-\frac{\partial L}{\partial z}
-\times
-\frac{\partial z}{\partial b}
-=
-14\times1
-=
-14
-$$
+$$\frac{\partial L}{\partial b}=\frac{\partial L}{\partial z}\times\frac{\partial z}{\partial b}=14\times1=14$$
 
-$$
-b_{\mathrm{new}}
-=
-1-(0.01\times14)
-=
-0.86
-$$
+$$b_{\mathrm{new}}=1-(0.01\times14)=0.86$$
 
 수정된 값으로 다시 예측하면:
 
-$$
-z=(2\times2.72)+0.86=6.3
-$$
+$$z=(2\times2.72)+0.86=6.3$$
 
-$$
-L=6.3^2=39.69
-$$
+$$L=6.3^2=39.69$$
 
 ```text
 수정 전 Loss: 49
@@ -209,13 +148,9 @@ print(x.grad)  # tensor(4.)
 
 계산식:
 
-$$
-y=x^2
-$$
+$$y=x^2$$
 
-$$
-\frac{dy}{dx}=2x=4
-$$
+$$\frac{dy}{dx}=2x=4$$
 
 ```text
 requires_grad=True
@@ -469,15 +404,9 @@ model.eval()  -> Dropout 중단
 
 현재 Mini-batch의 평균과 분산으로 중간 출력을 정규화한 후, 학습 가능한 `γ`, `β`로 다시 조정함.
 
-$$
-\hat{x}
-=
-\frac{x-\mu}{\sqrt{\sigma^2+\epsilon}}
-$$
+$$\hat{x}=\frac{x-\mu}{\sqrt{\sigma^2+\epsilon}}$$
 
-$$
-y=\gamma\hat{x}+\beta
-$$
+$$y=\gamma\hat{x}+\beta$$
 
 ```text
 model.train()
