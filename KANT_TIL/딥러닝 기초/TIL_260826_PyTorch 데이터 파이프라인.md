@@ -493,3 +493,5 @@ grad = 0    -> Gradient가 존재하는 것으로 처리
 ```
 
 `set_to_none=True`는 0 Tensor를 채우는 작업을 생략하므로 메모리 사용과 연산을 줄일 수 있음.
+
+

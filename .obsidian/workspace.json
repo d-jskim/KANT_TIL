@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/딥러닝 기초/TIL_260826_PyTorch 데이터 파이프라인.md",
+                "file": "KANT_TIL/딥러닝 기초/TIL_260827_실험 재현성과 모델 관리 기초.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_260826_PyTorch 데이터 파이프라인"
+              "title": "TIL_260827_실험 재현성과 모델 관리 기초"
             }
           },
           {
@@ -223,11 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e2566ffbdb1d025",
+  "active": "2986f3aa627bb234",
   "lastOpenFiles": [
+    "KANT_TIL/딥러닝 기초/TIL_260826_PyTorch 데이터 파이프라인.md",
+    "KANT_TIL/딥러닝 기초/TIL_260827_실험 재현성과 모델 관리 기초.md",
     "첨부파일/260826_Flatten_linear입력.png",
     "첨부파일/260826_원본 데이터셋 인덱스 분할.png",
-    "KANT_TIL/딥러닝 기초/TIL_260826_PyTorch 데이터 파이프라인.md",
     "첨부파일/260826_이미지 입력 텐서와 딥러닝 처리 과정.png",
     "KANT_TIL/딥러닝 기초/TIL_260825_역전파와 PyTorch Autograd.md",
     "KANT_TIL/딥러닝 기초/TIL_260824_손실 함수와 옵티마이저.md",
@@ -246,7 +247,6 @@
     "첨부파일/260813_pandas.crosstab.normalize 결과.png",
     "첨부파일/260814_암환자_Positive 설정.png",
     "첨부파일/Pasted image 20260814101040.png",
-    "첨부파일/Pasted image 20260813153038.png",
     "KANT_TIL/머신러닝/TIL_260813_머신러닝 입문.md",
     "첨부파일",
     "KANT_TIL/머신러닝/TIL_260812.md",
