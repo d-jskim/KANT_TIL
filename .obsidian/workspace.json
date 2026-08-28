@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/딥러닝 기초/TIL_260827_실험 재현성과 모델 관리 기초.md",
+                "file": "KANT_TIL/딥러닝 기초/TIL_260828_CNN 기초.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_260827_실험 재현성과 모델 관리 기초"
+              "title": "TIL_260828_CNN 기초"
             }
           },
           {
@@ -225,8 +225,10 @@
   },
   "active": "2986f3aa627bb234",
   "lastOpenFiles": [
-    "KANT_TIL/딥러닝 기초/TIL_260826_PyTorch 데이터 파이프라인.md",
+    "KANT_TIL/딥러닝 기초/과적합과 학습 안정화.md",
+    "KANT_TIL/딥러닝 기초/TIL_260828_CNN 기초.md",
     "KANT_TIL/딥러닝 기초/TIL_260827_실험 재현성과 모델 관리 기초.md",
+    "KANT_TIL/딥러닝 기초/TIL_260826_PyTorch 데이터 파이프라인.md",
     "첨부파일/260826_Flatten_linear입력.png",
     "첨부파일/260826_원본 데이터셋 인덱스 분할.png",
     "첨부파일/260826_이미지 입력 텐서와 딥러닝 처리 과정.png",
