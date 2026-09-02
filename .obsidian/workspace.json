@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/딥러닝 심화/TIL_260902_.md",
+                "file": "KANT_TIL/딥러닝 심화/TIL_260902_Transformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_260902_"
+              "title": "TIL_260902_Transformer"
             }
           },
           {
@@ -226,7 +226,7 @@
   "active": "2986f3aa627bb234",
   "lastOpenFiles": [
     "KANT_TIL/딥러닝 기초/TIL_260901_딥러닝 기초 복습.md",
-    "KANT_TIL/딥러닝 심화/TIL_260902_.md",
+    "KANT_TIL/딥러닝 심화/TIL_260902_Transformer.md",
     "KANT_TIL/딥러닝 심화",
     "첨부파일/260901_ResNet_Downsample.png",
     "첨부파일/260901_전이학습(3).png",
