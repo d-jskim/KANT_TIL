@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/딥러닝 심화/TIL_260908.md",
+                "file": "KANT_TIL/실전/TIL_260921 데이터 수집.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_260908"
+              "title": "TIL_260921 데이터 수집"
             }
           },
           {
@@ -225,8 +225,10 @@
   },
   "active": "2986f3aa627bb234",
   "lastOpenFiles": [
-    "KANT_TIL/딥러닝 심화/TIL_260907_BERT & Causal LM.md",
     "KANT_TIL/딥러닝 심화/TIL_260908.md",
+    "KANT_TIL/실전/TIL_260921 데이터 수집.md",
+    "KANT_TIL/실전",
+    "KANT_TIL/딥러닝 심화/TIL_260907_BERT & Causal LM.md",
     "KANT_TIL/딥러닝 심화/TIL_260904_Transformer 구조.md",
     "KANT_TIL/딥러닝 심화/TIL_260903_Attention.md",
     "KANT_TIL/딥러닝 심화/TIL_260902_Transformer.md",
@@ -266,7 +268,6 @@
     "KANT_TIL/머신러닝",
     "KANT_TIL",
     "환영합니다!.md",
-    "KANT_학습/머신러닝 심화",
-    "KANT_학습/기초수학"
+    "KANT_학습/머신러닝 심화"
   ]
 }
