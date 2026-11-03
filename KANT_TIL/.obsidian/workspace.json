@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMOps/TIL_261102.md",
+                "file": "LLMOps/TIL_261103.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_261102"
+              "title": "TIL_261103"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c17eef9fa6ba3dc",
@@ -185,13 +186,15 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "cffafa6044fed6f0",
   "lastOpenFiles": [
+    "LLMOps/TIL_261102.md",
+    "LLMOps/TIL_261103.md",
     "Pasted image 20261102101754.png",
-    "Pasted image 20261102101749.png",
-    "LLMOps/TIL_261102.md"
+    "Pasted image 20261102101749.png"
   ]
 }
