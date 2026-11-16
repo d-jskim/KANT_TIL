@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMOps/TIL_261103.md",
+                "file": "파인튜닝/TIL_261116.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_261103"
+              "title": "TIL_261116"
             }
           }
         ]
@@ -192,8 +192,12 @@
   },
   "active": "cffafa6044fed6f0",
   "lastOpenFiles": [
-    "LLMOps/TIL_261102.md",
+    "Pasted image 20261116145403.png",
+    "Pasted image 20261116144231.png",
     "LLMOps/TIL_261103.md",
+    "파인튜닝/TIL_261116.md",
+    "파인튜닝",
+    "LLMOps/TIL_261102.md",
     "Pasted image 20261102101754.png",
     "Pasted image 20261102101749.png"
   ]
