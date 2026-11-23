@@ -1,0 +1,14 @@
+- pre-trained model 
+- transformer architecture의 쿼리 행렬 또는 전체 linear층을 가져와서 학습
+- LoRA의 가중치 개수를 몇 개로 할 것인가.
+- 적게 세팅하면 학습이 많이 일어나지 않고, 최소한의 파라미터만 학습
+- 전체 선형층 선형 학습 시 LoRA 원소 수 필요
+- Trade-off: 학습 과 GPU 자원
+- alpha의 경우 보통 rank의 2배
+- A와 B의 초기값 - A: Uniform distribution / B: 0
+- 선두 업계(frontier labs)에서 float32 -> 4bit 작게 만들어서 학습
+- base model 고정하고 adaptor 연산
+- with torch.inference_mode() - with절 쓰는 이유. 
+  생성할 때는 gradient를 계산할 필요없고 출력만 하면 됨. 효율적인 메모리 사용을 위해서 with절 사용
+- sft와 비교를 위해서 training arguments 동일하게 유지
+- 학습이 잘 이루어지지 않은 상태에서 어떻게 해야할지 고민해보기
