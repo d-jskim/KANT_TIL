@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/파인튜닝/TIL_261123.md",
+                "file": "KANT_TIL/파인튜닝/TIL_261124_DPO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_261123"
+              "title": "TIL_261124_DPO"
             }
           },
           {
@@ -225,8 +225,9 @@
   },
   "active": "2986f3aa627bb234",
   "lastOpenFiles": [
-    "KANT_TIL/파인튜닝/TIL_261120_LoRA.md",
     "KANT_TIL/파인튜닝/TIL_261123.md",
+    "KANT_TIL/파인튜닝/TIL_261124_DPO.md",
+    "KANT_TIL/파인튜닝/TIL_261120_LoRA.md",
     "KANT_TIL/파인튜닝/TIL_261118.md",
     "KANT_TIL/파인튜닝/TIL_261117.md",
     "KANT_TIL/RAG 프로젝트/TIL_261105.md",
@@ -264,7 +265,6 @@
     "첨부파일/260901_전이학습(3).png",
     "첨부파일/260901_전이학습(2).png",
     "첨부파일/260901_전이학습(1).png",
-    "KANT_TIL/딥러닝 기초/TIL_260831_CNN, RNN, LSTM.md",
     "첨부파일/260826_Flatten_linear입력.png",
     "첨부파일/260826_원본 데이터셋 인덱스 분할.png",
     "첨부파일/260826_이미지 입력 텐서와 딥러닝 처리 과정.png",
