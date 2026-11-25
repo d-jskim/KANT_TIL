@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANT_TIL/파인튜닝/TIL_261124_DPO.md",
+                "file": "KANT_TIL/파인튜닝/TIL_261125_LLM 평가.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL_261124_DPO"
+              "title": "TIL_261125_LLM 평가"
             }
           },
           {
@@ -225,8 +225,9 @@
   },
   "active": "2986f3aa627bb234",
   "lastOpenFiles": [
-    "KANT_TIL/파인튜닝/TIL_261123.md",
     "KANT_TIL/파인튜닝/TIL_261124_DPO.md",
+    "KANT_TIL/파인튜닝/TIL_261125_LLM 평가.md",
+    "KANT_TIL/파인튜닝/TIL_261123.md",
     "KANT_TIL/파인튜닝/TIL_261120_LoRA.md",
     "KANT_TIL/파인튜닝/TIL_261118.md",
     "KANT_TIL/파인튜닝/TIL_261117.md",
@@ -259,7 +260,6 @@
     "KANT_TIL/딥러닝 심화/TIL_260904_Transformer 구조.md",
     "KANT_TIL/딥러닝 심화/TIL_260903_Attention.md",
     "KANT_TIL/딥러닝 심화/TIL_260902_Transformer.md",
-    "KANT_TIL/딥러닝 기초/TIL_260901_딥러닝 기초 복습.md",
     "KANT_TIL/딥러닝 심화",
     "첨부파일/260901_ResNet_Downsample.png",
     "첨부파일/260901_전이학습(3).png",
